@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=24b3a7)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artemermulin" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artemermulin&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=artemermulin&show_icons=true&count_private=true&theme=vue" />
